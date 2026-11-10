@@ -695,9 +695,9 @@ data.json의 각 테스트 케이스에 대해 Cross/X MAC 점수를 계산하�
 
 판정 결과는 PASS 또는 FAIL로 출력되며 실패 시 원인을 함께 기록한다.
 
-![JSON 분석 결과 1](screenshots/07_JSON_자동분석_PASS_FAIL.png_1.png)
+![JSON 분석 결과 1](screenshots/07_JSON_자동분석_PASS_FAIL_1.png)
 
-![JSON 분석 결과 2](screenshots/07_JSON_자동분석_PASS_FAIL.png_2.png)
+![JSON 분석 결과 2](screenshots/07_JSON_자동분석_PASS_FAIL_2.png)
 
 ### 11.8 크기별 MAC 성능 분석
 
